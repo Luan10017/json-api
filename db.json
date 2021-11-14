@@ -2,18 +2,43 @@
     "products": [
         {
             "id": 1,
-            "name": "Caneta BIC Presta",
-            "price": 5.89
+            "category": "hamburguer",
+            "name": "X-bacon",
+            "price": 5.89,
+            "img_path": "/assets/home/fritas.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, veniam ducimus nemo iusto commodi dolor minus molestiae eligendi alias aliquam dignissimos deserunt neque architecto sit, corrupti eius fugiat culpa similique!"
         },
         {
             "id": 2,
-            "name": "Notebook Mac Pro",
-            "price": 12000.89
+            "category": "hamburguer",
+            "name": "X-tudo",
+            "price": 12000.89,
+            "img_path": "/assets/home/carne-assada.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, veniam ducimus nemo iusto commodi dolor minus molestiae eligendi alias aliquam dignissimos deserunt neque architecto sit, corrupti eius fugiat culpa similique!"
         },
         {
             "id": 3,
-            "name": "Samsung S20+",
-            "price": 5000.89
+            "category": "alcoolicas",
+            "name": "cerveja",
+            "price": 5.89,
+            "img_path": "/assets/home/cerveja-long-neck.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, veniam ducimus nemo iusto commodi dolor minus molestiae eligendi alias aliquam dignissimos deserunt neque architecto sit, corrupti eius fugiat culpa similique!"
+        },
+        {
+            "id": 4,
+            "category": "porcoes",
+            "name": "Fritas",
+            "price": 35.0,
+            "img_path": "/assets/home/fritas.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, veniam ducimus nemo iusto commodi dolor minus molestiae eligendi alias aliquam dignissimos deserunt neque architecto sit, corrupti eius fugiat culpa similique!"
+        },
+        {
+            "id": 5,
+            "category": "bebidas",
+            "name": "suco",
+            "price": 35.0,
+            "img_path": "/assets/home/morango.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, veniam ducimus nemo iusto commodi dolor minus molestiae eligendi alias aliquam dignissimos deserunt neque architecto sit, corrupti eius fugiat culpa similique!"
         }
     ]
 }
