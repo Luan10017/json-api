@@ -39,6 +39,14 @@
             "price": 35.0,
             "img_path": "/assets/home/morango.jpg",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, veniam ducimus nemo iusto commodi dolor minus molestiae eligendi alias aliquam dignissimos deserunt neque architecto sit, corrupti eius fugiat culpa similique!"
+        },
+        {
+            "id": 6,
+            "category": "bebidas",
+            "name": "suco",
+            "price": 35.0,
+            "img_path": "/assets/home/morango.jpg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, veniam ducimus nemo iusto commodi dolor minus molestiae eligendi alias aliquam dignissimos deserunt neque architecto sit, corrupti eius fugiat culpa similique!"
         }
     ]
 }
